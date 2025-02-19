@@ -1,0 +1,10 @@
+.tooltip {
+    position: absolute;
+    z-index: 2;
+    background: #fff;
+    padding: 1.125rem;
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
+    top: 0px;
+    left: 0px;
+}
